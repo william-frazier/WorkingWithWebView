@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("WorkingWithWebview.Android.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("MiddGuide.Android.Resource", IsApplication=true)]
 
-namespace WorkingWithWebview.Android
+namespace MiddGuide.Android
 {
 	
 	
@@ -26,7 +26,7 @@ namespace WorkingWithWebview.Android
 		
 		public static void UpdateIdValues()
 		{
-			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::WorkingWithWebview.Android.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::MiddGuide.Android.Resource.Attribute.actionBarSize;
 		}
 		
 		public partial class Animation

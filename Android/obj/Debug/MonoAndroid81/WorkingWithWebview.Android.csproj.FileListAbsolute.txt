@@ -1,7 +1,5 @@
 C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.Android.dll
 C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.Android.pdb
-C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.Android.apk
-C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.Android-Signed.apk
 C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.dll
 C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.pdb
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\WorkingWithWebview.Android.csprojAssemblyReference.cache
@@ -11,7 +9,6 @@ C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\WorkingWithWebview.Android.csproj.CopyComplete
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\WorkingWithWebview.Android.dll
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\WorkingWithWebview.Android.pdb
-C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\android\bin\WorkingWithWebview.Android.apk
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\res\layout\main.xml
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\res\values\strings.xml
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\res\drawable\icon.png
@@ -91,3 +88,11 @@ C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\MiddGuide.Android.apk
+C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\MiddGuide.Android-Signed.apk
+C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\android\bin\MiddGuide.Android.apk
+C:\Users\William\source\repos\WorkingWithWebView\Android\bin\Debug\WorkingWithWebview.Android.dll
+C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\linksrc\WorkingWithWebview.Android.dll.mdb
+C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\linksrc\WorkingWithWebview.dll.mdb
+C:\Users\William\source\repos\WorkingWithWebView\Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

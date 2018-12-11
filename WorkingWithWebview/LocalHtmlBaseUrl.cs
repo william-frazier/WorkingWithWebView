@@ -16,10 +16,10 @@ namespace WorkingWithWebview
 <link rel=""stylesheet"" href=""default.css"">
 </head>
 <body>
-<h1>Xamarin.Forms</h1>
-<p>The CSS and image are loaded from local files!</p>
-<img src='XamarinLogo.png'/>
-<p><a href=""local.html"">next page</a></p>
+<h1>Midd Guide</h1>
+<p>The app will deploy after you click the link.</p>
+
+<p><a href=""local.html"">Open app.</a></p>
 </body>
 </html>";
 
